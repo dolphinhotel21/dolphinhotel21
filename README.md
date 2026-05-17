@@ -1,7 +1,7 @@
-# Tamashima / 玉島
+# doiphinhotel / イルカホテル
 
-**Municipal Officer | Toyooka City, Hyogo, Japan**  
-自治体職員 ／ 兵庫県豊岡市
+**Municipal Officer , Japan**  
+自治体職員 
 
 ---
 
@@ -29,7 +29,7 @@ Building tools for **transparent local governance**
 
 ## Background / 経歴
 
-情報推進課にて自治体ネットワークのセキュリティ設計（IPS・FortiGate・Cisco）に従事。  
+情報担当部局にて自治体ネットワークのセキュリティ設計（IPS・FortiGate・Cisco）に従事。  
 現在は介護保険課にて介護予防・総合事業の政策企画を担当。  
 制度・IT・現場の三つを横断できる実装型の行政職員。
 
