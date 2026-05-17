@@ -30,7 +30,7 @@ Building tools for **transparent local governance**
 ## Background / 経歴
 
 情報担当部局にて自治体ネットワークのセキュリティ設計（IPS・FortiGate・Cisco）に従事。  
-現在は介護保険課にて介護予防・総合事業の政策企画を担当。  
+現在は介護保険担当部局にて介護予防・総合事業、介護保険事業計画の政策企画を担当。  
 制度・IT・現場の三つを横断できる実装型の行政職員。
 
 In charge of network security design (IPS, FortiGate, Cisco L2/L3) at the IT Promotion Division.  
